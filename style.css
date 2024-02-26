@@ -1,15 +1,11 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Anta&display=swap'); */
+
 
 body{
     margin: 0;
     padding: 0;   
     height: 100vh;
-    /*
-* Created with https://www.css-gradient.com
-* Gradient link: https://www.css-gradient.com/?c1=05050a&c2=051e49&gt=l&gd=dbb
-*/
-background: #05050A;
-background: linear-gradient(0deg, #05050A, #051E49);
+    background: #05050A;
+    background: linear-gradient(0deg, #05050A, #051E49);
 }
 
 .container{
